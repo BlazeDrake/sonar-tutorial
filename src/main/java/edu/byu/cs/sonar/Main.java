@@ -14,6 +14,7 @@ class Main {
      *
      * @param args listed above
      */
+    //comment for git
     public static void main(final String[] args) {
         final CustomFileReader reader1 = new CustomFileReader(args[0]);
         final CustomFileReader reader2 = new CustomFileReader(args[1]);

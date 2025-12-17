@@ -7,6 +7,7 @@ import java.util.Scanner;
 /**
  * This is a class that will handle the file reading
  */
+//comment for git
 class CustomFileReader {
     /**
      * The scanner that will read the dictionary
